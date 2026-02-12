@@ -6,4 +6,4 @@ for x in range(5, 45, 10):
 # FOR aniado
 for x in rangue(1,5,1):
     for y in range(1,5,1):
-        print(x + y)
+        print(x + y)  
